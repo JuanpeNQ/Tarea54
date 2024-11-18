@@ -9,5 +9,6 @@ package es.gva.edu.juanavqui.tarea.jpnq24;
  * @author Juan Pedro
  */
 public interface Figura {
-    
+    public double calcularArea();
+    public double calcularPerimetro();
 }
